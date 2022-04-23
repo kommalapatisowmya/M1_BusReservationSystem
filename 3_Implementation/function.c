@@ -1,6 +1,6 @@
 /**
  * @file function.c
- * @author Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @author Kommalapati Sowmya (sowmyakommalapati2@gmail.com)
  * @brief This is the functions program where the project is run
  * @version 0.1
  * @date 2022-03-31
