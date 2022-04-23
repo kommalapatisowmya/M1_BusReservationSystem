@@ -1,6 +1,6 @@
 /**
  * @file bus.c
- * @author  Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @author  k sowmya 
  * @brief This is the main program where the project is run
  * @version 0.1
  * @date 2022-03-31
