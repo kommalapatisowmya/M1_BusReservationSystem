@@ -1,2 +1,2 @@
-@mainpage Bus Reservation System by "Naresh D"
+@mainpage Bus Reservation System by "K sowmya"
 @subpage bus_operations.h
