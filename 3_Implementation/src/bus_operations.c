@@ -1,6 +1,6 @@
 /**
  * @file bus_operations.c
- * @author Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @author Kommalapati Sowmya (sowmyakommalapati2@gmail.com)
  * @brief This the sourcecode which contains all functions for the project
  * @version 0.1
  * @date 2022-03-31
