@@ -1,6 +1,6 @@
 /**
  * @file bus_operations.h
- * @author Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @author k sowmya (sowmyakommalapati2@gmail.com)
  * @brief Header file for bus reservation system
  * @version 0.1
  * @date 2022-03-28
