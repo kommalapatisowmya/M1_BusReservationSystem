@@ -1,8 +1,5 @@
 # Architecture
 
-## Activity/ Process Flow Diagram
-![alt text](https://github.com/Naresh17025/M1_Bus_reservation_system/blob/main/2_Architecture/Flow%20Chart.drawio.png)
-
-## Use Case Diagram
-![alt text](https://github.com/Naresh17025/M1_Bus_reservation_system/blob/main/2_Architecture/Use%20Case%20Diagram.drawio.png)
+## ER Diagram:
+![image](https://user-images.githubusercontent.com/101501471/164954869-eace25ed-0d71-40e4-878d-138357214b9b.png)
 
